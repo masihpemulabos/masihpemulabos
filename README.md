@@ -46,7 +46,7 @@ content = """<!-- README.md - GitHub Profile Versi Shopee + Glassmorphism -->
 |-----------|--------------|--------------|
 | **SPK Perekrutan Rider/Driver (SAW)** | Sistem pendukung keputusan untuk perekrutan Shopee Express | PHP, MySQL |
 | **Aplikasi Kriptografi (RSA/AES/SHA)** | Enkripsi & dekripsi data dengan metode modern | Python |
-| **Website Naryska Love** | Website kreatif bertema cinta | HTML, CSS, JS |
+
 
 ---
 
