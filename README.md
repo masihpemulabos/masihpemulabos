@@ -1,4 +1,4 @@
-<!-- README.md - GitHub Profile Versi Shopee + Glassmorphism -->
+<!-- README.md - GitHub Profile Versi Shopee + Glassmorphism + Auto Snake -->
 
 <div align="center" style="background: linear-gradient(135deg, rgba(255,102,0,0.7), rgba(255,153,51,0.7)); backdrop-filter: blur(10px); border-radius: 20px; padding: 30px; box-shadow: 0 4px 30px rgba(0,0,0,0.3); color: white;">
 
@@ -40,12 +40,52 @@
 
 ---
 
-### 📦 Proyek Unggulan
-| 🚀 Proyek | 📄 Deskripsi | 💻 Teknologi |
-|-----------|--------------|--------------|
-| **SPK Perekrutan Rider/Driver (SAW)** | Sistem pendukung keputusan untuk perekrutan Shopee Express | PHP, MySQL |
-| **Aplikasi Kriptografi (RSA/AES/SHA)** | Enkripsi & dekripsi data dengan metode modern | Python |
+### 🐍 Auto Snake Animation
+<p align="center">
+  <svg xmlns="http://www.w3.org/2000/svg" width="600" height="140" viewBox="0 0 600 140" role="img" aria-label="Auto-moving snake animation">
+    <defs>
+      <linearGradient id="snakeGrad" x1="0" x2="1">
+        <stop offset="0%" stop-color="#FF9900"/>
+        <stop offset="100%" stop-color="#FF5500"/>
+      </linearGradient>
+      <path id="snakePath" d="M20 70 C120 10, 220 130, 320 70 C420 10, 520 130, 580 70" fill="none" stroke="none"/>
+    </defs>
 
+    <rect x="6" y="6" rx="16" ry="16" width="588" height="128" fill="rgba(255,255,255,0.05)"/>
+
+    <g>
+      <circle r="8" fill="url(#snakeGrad)" opacity="0.95">
+        <animateMotion begin="0s" dur="6s" repeatCount="indefinite">
+          <mpath xlink:href="#snakePath"/>
+        </animateMotion>
+      </circle>
+      <circle r="7.4" fill="url(#snakeGrad)" opacity="0.88">
+        <animateMotion begin="0.12s" dur="6s" repeatCount="indefinite">
+          <mpath xlink:href="#snakePath"/>
+        </animateMotion>
+      </circle>
+      <circle r="6.8" fill="url(#snakeGrad)" opacity="0.81">
+        <animateMotion begin="0.24s" dur="6s" repeatCount="indefinite">
+          <mpath xlink:href="#snakePath"/>
+        </animateMotion>
+      </circle>
+      <circle r="6.2" fill="url(#snakeGrad)" opacity="0.74">
+        <animateMotion begin="0.36s" dur="6s" repeatCount="indefinite">
+          <mpath xlink:href="#snakePath"/>
+        </animateMotion>
+      </circle>
+      <circle r="5.6" fill="url(#snakeGrad)" opacity="0.67">
+        <animateMotion begin="0.48s" dur="6s" repeatCount="indefinite">
+          <mpath xlink:href="#snakePath"/>
+        </animateMotion>
+      </circle>
+    </g>
+
+    <text x="300" y="125" text-anchor="middle" font-family="Segoe UI, sans-serif" font-size="13" fill="#FFF" opacity="0.9">
+      🧡 Shopee Snake Animation — Auto Move
+    </text>
+  </svg>
+</p>
 
 ---
 
@@ -66,6 +106,6 @@
 
 ---
 
-<p>© 2025 — <strong>Fajarul Fajri</strong> | Designed in Glassmorphism Style </p>
+<p>© 2025 — <strong>Fajarul Fajri</strong> | Designed in Glassmorphism Shopee Style 🧡</p>
 
 </div>
