@@ -30,7 +30,7 @@
 |--------|------------|------------|
 | 🔐 **Aplikasi Enkripsi Kriptografi** | Implementasi RSA, AES, SHA | Python |
 | 📊 **SPK Perekrutan Rider/Driver Shopee Express** | Metode SAW (Simple Additive Weighting) | PHP, MySQL |
-| ❤️ **Website Naryska Love** | Website kreatif bertema cinta | HTML, CSS, JS |
+
 
 ---
 
