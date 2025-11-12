@@ -36,12 +36,12 @@
 
 ### 📈 Statistik GitHub
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=fajarulfajri&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=fajarulfajri&theme=tokyonight&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=masihpemulabos&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=masihpemulabos&theme=tokyonight&hide_border=true" width="48%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=fajarulfajri&theme=tokyo-night&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=masihpemulabos&theme=tokyo-night&hide_border=true" />
 </p>
 
 ---
