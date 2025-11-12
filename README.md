@@ -9,7 +9,7 @@
 ---
 
 ### 🌟 Tentang Saya
-- 🎓 Mahasiswa **STMIK Triguna Dharma**, jurusan **Sistem Informasi (6SIA5)**
+- 🎓 Mahasiswa **STMIK Triguna Dharma**, jurusan **Sistem Informasi (8SIA5)**
 - 🧠 Sedang menyelesaikan skripsi:  
   **“Implementasi Metode Simple Additive Weighting (SAW) pada Sistem Informasi Pendukung Keputusan Perekrutan Rider dan Driver Shopee Express”**
 - 💼 Bekerja sebagai **Kurir & Admin di Shopee Express**
