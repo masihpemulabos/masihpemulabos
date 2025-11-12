@@ -3,7 +3,7 @@
 <div align="center" style="background: linear-gradient(135deg, rgba(255,102,0,0.7), rgba(255,153,51,0.7)); backdrop-filter: blur(10px); border-radius: 20px; padding: 30px; box-shadow: 0 4px 30px rgba(0,0,0,0.3); color: white;">
 
 <h1>👋 Hi, I'm <span style="color:#FFF">Fajarul Fajri</span></h1>
-<h3>🚀 Sistem Informasi | 💼 Shopee Express | 💻 Developer</h3>
+<h3>🚀 Sistem Informasi | 💼 Shopee Express | 💻 Full Stack Developer</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?color=FFFFFF&size=24&center=true&vCenter=true&width=600&lines=Welcome+to+my+GitHub!;Building+useful+SPK+Systems;Developer+by+Day,+Courier+by+Night;Shopee+Orange+Vibes+🔥" alt="typing">
@@ -28,7 +28,7 @@
 - 🎓 Mahasiswa **STMIK Triguna Dharma**, jurusan **Sistem Informasi (6SIA5)**  
 - 💼 Pengalaman kerja sebagai **Admin & Kurir di Shopee Express**  
 - 🔭 Skripsi: *Implementasi Metode SAW untuk Perekrutan Rider/Driver Shopee Express*  
-- 💪 Fokus pada **Web Dev**, **SPK**, dan **Kriptografi**  
+- 💪 Fokus pada **Web Dev**, **Android**, dan **Desktop APP**  
 - ⚡ *"Kunci kesuksesan adalah konsisten, bukan tergesa."*
 
 ---
