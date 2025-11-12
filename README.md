@@ -30,7 +30,7 @@
 |--------|------------|------------|
 | 🔐 **Aplikasi Enkripsi Kriptografi** | Implementasi RSA, AES, SHA | Python |
 | 📊 **SPK Perekrutan Rider/Driver Shopee Express** | Metode SAW (Simple Additive Weighting) | PHP, MySQL |
-| ❤️ **Website Naryska Love** | Website kreatif bertema cinta | HTML, CSS, JS |
+
 
 ---
 
@@ -48,8 +48,8 @@
 
 ### 📫 Hubungi Saya
 <p align="center">
-  <a href="https://wa.me/628xxxxxxx" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
-  <a href="mailto:fajarulfajri@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-FF0000?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://wa.me/6281262732801" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
+  <a href="mailto:fajarulfazri02@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-FF0000?style=for-the-badge&logo=gmail&logoColor=white"/></a>
   <a href="https://linkedin.com/in/fajarulfajri" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="https://github.com/fajarulfajri" target="_blank"><img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white"/></a>
 </p>
@@ -65,5 +65,5 @@
 
 <!-- FOOTER -->
 <p align="center">
-  © 2025 — <strong>Fajarul Fajri</strong> | Designed with ❤️ by Boss
+  © 2025 — <strong>Fajarul Fajri</strong> | Designed with heart by fazray
 </p>
